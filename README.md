@@ -1,8 +1,8 @@
 # Strategie-Puissance4
 Ce projet reprend le Puissance 4 mais avec cette fois-ci une stratégie automatisée contre lequel on peut jouer en Langage C (Sans Interface Graphique : Terminal)
 
-- Il faut noter que vous pouvez télécharger le repository pour rejouer contre la startégie.
+- Options de pouvoirs jouer contre humain ou Ordinateur
 
-- Rien ne vous empêche de recréer une stratégie pour pouvoir la confronter à la mienne avec le projet il suffit de mettre le code de votre stratégie dans le fichier *code* et l'executable(.exe) dans *strats*.
+- Algorithme de l'ordinateur qui se base sur un algorithme min-max (alpha-bêta)
 
-- Deux stratégies sont déjà présentes la mienne et celle de camarades de classe .
+- Si propostions sur mon algorithme, vous pouvez me contacter
